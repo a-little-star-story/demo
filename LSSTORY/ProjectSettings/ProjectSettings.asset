@@ -650,9 +650,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 12094aae-37fe-40d9-841d-9958c8d21053
+  cloudProjectId: 482f70e4-b05f-462f-93e2-d88c61404841
   projectName: LSSTORY
-  organizationId: alesta2018
+  organizationId: unity_jzq9fqpe0ymslw
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
